@@ -306,3 +306,22 @@ margin-bottom: 25px;
  .tect-center {
    text-align: center;
  }
+/* Footer style */
+    
+.Footer{
+ text-align: center;
+background-color: var(--primary-dark-grey);
+
+}
+a{
+  color: var(--primary-black);
+  
+}
+a:hover{
+  text-decoration: none;
+  color: var(--primary-grey);
+}
+
+
+
+
