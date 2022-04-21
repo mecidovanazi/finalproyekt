@@ -83,5 +83,34 @@ margin-bottom: 25px;
   display: none;
   font-size: 36rem;
 }
+/* About me komponenti ucun stiller */
+
+.photo-wrap{
+  display: flex;
+  align-items: center;
+  align-items: center;
+  
+  }
+  .profile-img{
+    width: 16rem;
+    height: 16rem;
+    border-radius: 50%;
+    border: 1px solid var(--primary-orange);
+    padding: .3rem;
+    object-fit:cover;
+  }
+  
+  @media(max-width:568px){
+    .about-heading{
+      text-align: center;
+    }
+    .row{
+      gap: 1.2rem;
+    }
+  }
+  .text-1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+  }
 
 
