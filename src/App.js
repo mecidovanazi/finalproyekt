@@ -1,6 +1,6 @@
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
 import './App.css';
-import Navbar from './components/Navbar';
+
 
 
 
@@ -9,10 +9,7 @@ import Navbar from './components/Navbar';
 function App() {
   return (
    
-   <div className='containir-fluid'>
-   <Navbar/>
-   
-   </div>
+  <h1>Salam</h1>
   
   );
 }
