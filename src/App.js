@@ -1,15 +1,21 @@
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
 import './App.css';
+// componentler gelecek
+import Navbar from './components/Navbar';
 
 
 
 
 
 
-function App() {
+function App () {
   return (
    
-  <h1>Salam</h1>
+  <div>
+   
+<Navbar/>
+
+  </div>
   
   );
 }
