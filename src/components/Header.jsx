@@ -1,11 +1,13 @@
 import React from 'react'
 import Typed from 'react-typed'
+import  Cv from '../cv.png'
+
 
 function Header() {
   return (
-    
+ 
     <div className="header-wrapper">
-        <div className="main-info">
+         <div className="main-info">
             <h2>Web development and website services</h2>
             <Typed
                 strings={[
@@ -17,7 +19,7 @@ function Header() {
                      loop >
                  
                 </Typed>
-         <a href="../surface-rkr_jnaGzIk-unsplash.jpg" className="downloadcv" download>Download cv</a>
+         <a href={Cv}  className="downloadcv" download>Download cv</a>
         
         </div>
         

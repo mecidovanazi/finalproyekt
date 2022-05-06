@@ -18,7 +18,7 @@ function Services() {
                   <FontAwesomeIcon icon={faGoogle}  className="icon-s"/>
                 </div>
                 <h2>SEO</h2>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse odio at voluptatum maxime optio dolorum non, accusantium veniam. Officiis culpa cumque beatae repudiandae eligendi libero consequatur, quis numquam ipsam laborum.</p>
+                <p>Search Engine Optimization və ya SEO, veb saytlarımızın axtarış motorlarında daha çox görünməsini təmin etmək üçün görülən işlərin hamısıdır</p>
               </div>
             </div>
             {/* veb development ile elaqeli sahe */}
@@ -28,7 +28,7 @@ function Services() {
                   <FontAwesomeIcon icon={faFileCode}  className="icon-s"/>
                 </div>
                 <h2>Web devloper</h2>
-                <p> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Earum esse hic autem voluptate. Distinctio, officia. Labore, saepe! Itaque dolores impedit, quos, eligendi, mollitia sequi ut nam id beatae  molestiae!</p>
+                <p>Sadə bir təriflə, Web Developer veb tərtibatçısı, World-Wide-Web (WWW) dizaynı və tətbiqləri üzrə ixtisaslaşan insanlara verilən ümumi başlıqdır.</p>
               </div>
             </div>
 
@@ -39,7 +39,7 @@ function Services() {
                   <FontAwesomeIcon icon={faFacebookF}  className="icon-s"/>
                 </div>
                 <h2>Facebook SMM</h2>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse odio at voluptatum maxime optio dolorum non, accusantium veniam. Officiis culpa cumque beatae , quis numquam ipsam laborum.</p>
+                <p>Facebook insanların digər insanlarla ünsiyyət qurmasını, məlumat mübadiləsini hədəfləyən sosial şəbəkədir. 4 fevral 2004-cü ildə Harvard Universitetinin tələbəsi Mark Zukerberq tərəfindən qurulub Facebook.</p>
               </div>
             </div>
            {/* IT */}
@@ -50,7 +50,7 @@ function Services() {
                   <FontAwesomeIcon icon={faDesktop} className="icon-s"/>
                 </div>
                 <h2>IT,helpdesk</h2>
-                 <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse odio at voluptatum maxime optio dolorum non, accusantium veniam. Officiis culpa cumque beatae repudiandae eligendi  consequatur, quis numquam ipsam laborum.</p>
+                 <p>İT sahənin ən tələb olunan 7-ixtisasını təqdim edib. Onların arasında süni zəka,kibertəhlükəsizlik mütəxəssisləri və bu sahəsi üzrə 1-ci yerini tutan data scientist ixtisası var. Bununla yanaşı məlum olub, texnologiyalar üzərindən yaxşı pul qazanmaq üçün heç də Silikon Vadisində çalışmağa ehtiyac yoxdur.</p>
                 </div>
             </div>
           </div>

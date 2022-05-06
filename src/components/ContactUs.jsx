@@ -26,7 +26,7 @@ const ContactUs =() => {
    <div className="contacs">
        <div className="tect-center">
            <h1>contact us</h1>
-           <p>live contac you as soon as possible</p>
+           <p>Əlaqə məlumatları</p>
        </div>
        <div className="container">
            <form ref={form} onSubmit={sendEmail}>
