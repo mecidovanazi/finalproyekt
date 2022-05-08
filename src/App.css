@@ -26,7 +26,7 @@
 
 .nav{
    
-    background-color: rgb(36, 39, 39);
+    background-color: rgb(34, 36, 36);
 }
 
 nav a.nav-link{
@@ -58,7 +58,7 @@ nav{
 
 
 .header-wrapper{
-  background: url(logo2.jpg);
+  background: url(windows.jpg);
   background-size: cover;
   height: 100vh;
   background-position: center;
@@ -103,8 +103,8 @@ p{
   
   }
   .profile-img{
-    width: 17rem;
-    height: 17rem;
+    width: 15rem;
+    height: 15rem;
     border-radius: 50%;
     border: 1px solid var(--primary-orange);
     padding: .3rem;
